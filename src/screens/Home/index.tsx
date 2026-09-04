@@ -28,6 +28,11 @@ const options: Array<{
             description: "Acompanhe o movimento do seu aparelho",
             route: "AcelerometroScreen",
         },
+        {
+            title: "Camera",
+            description: "tire fotos",
+            route: "CameraScreen",
+        },
         
     ];
 
